@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wisata Kota Solo</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="detail">Deskripsi</string>
+    <string name="profile">Data Diri</string>
+    <string name="list">List</string>
+    <string name="with_cardview">Card View</string>
+</resources>
