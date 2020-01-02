@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyViewHolder</string>
+    <string name="description">Deskripsi</string>
+    <string name="temperature">Temperatur</string>
+    <string name="name">Nama Kota</string>
+    <string name="insert_city">MasukkanidkotamisalSemarang=1627896</string>
+    <string name="search">Cari</string>
+    <string name="id_ska_wnb_smg">1625812,1621395,1627896</string>
+</resources>
